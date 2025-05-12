@@ -2,5 +2,3 @@ hello world
 at kochi right now
 trying to learn how git works
 ok
-adding some stuff here
-added even more stuff
