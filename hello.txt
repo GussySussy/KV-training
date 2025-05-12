@@ -4,3 +4,4 @@ trying to learn how git works
 ok
 making changes to pull
 trying to make a merge pull request
+added from clone repo
