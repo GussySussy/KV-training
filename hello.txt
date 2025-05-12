@@ -2,3 +2,4 @@ hello world
 at kochi right now
 trying to learn how git works
 ok
+making changes to pull
