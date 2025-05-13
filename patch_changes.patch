@@ -1,0 +1,13 @@
+diff --git a/hello.txt b/hello.txt
+index 534ee4b..3dfc317 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -8,4 +8,5 @@ added from clone repo
+ gus changes
+ gus changes 2
+ helloo braaaaaaaaaanch
+-addin next line to new branch
+\ No newline at end of file
++addin next line to new branch
++patch changes
+\ No newline at end of file
